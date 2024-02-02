@@ -1,0 +1,11 @@
+body{
+    background-color: #ff8f;
+    text-align: center;
+}
+
+h1, p {
+    color: #3f3f3a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
